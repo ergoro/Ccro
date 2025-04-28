@@ -13,6 +13,7 @@ This research project is managed in the following platforms:
 NA
 
 ## 3. Literature review
+Mapping of related articles:
 - [Link (read and edit main related papers)](https://docs.google.com/document/d/1leGzB35xSj0mbyzThlBPkk-yJBzyKMjv3XtxPEefcqY/edit?usp=sharing)
 
 ## 4. Structure
