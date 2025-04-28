@@ -12,7 +12,10 @@ This research project is managed in the following platforms:
 ## 2. Data sources
 NA
 
-## 3. Structure
+## 3. Literautre review
+- [Link (read and edit main related papers)](https://docs.google.com/document/d/1leGzB35xSj0mbyzThlBPkk-yJBzyKMjv3XtxPEefcqY/edit?usp=sharing)
+
+## 4. Structure
 
 The following structure is proposed:
 
