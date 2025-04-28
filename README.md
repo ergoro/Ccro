@@ -51,7 +51,7 @@ The following structure is proposed:
 The target journal is [International Journal of Disaster Risk Science (IJDRS)](https://link.springer.com/journal/13753)
 
 ### Manuscript
-- [Manuscript for journal]()
+- Manuscript for journal
 
 ### Journal Guidelines
 - [IJDRS (submission guidelines)](https://link.springer.com/journal/13753/submission-guidelines)
