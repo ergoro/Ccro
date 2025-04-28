@@ -9,10 +9,10 @@ This research project is managed in the following platforms:
 - [Zotero](https://www.zotero.org/groups/5969876/resilieceofficers) (for references)
 - [Google Meet](https://duo.app.goo.gl/yrH6bq5cIBhPRk6mdnObT9) (for video meetings)
 
-## 2. Data sources
+## 2. Data
 NA
 
-## 3. Literautre review
+## 3. Literature review
 - [Link (read and edit main related papers)](https://docs.google.com/document/d/1leGzB35xSj0mbyzThlBPkk-yJBzyKMjv3XtxPEefcqY/edit?usp=sharing)
 
 ## 4. Structure
@@ -45,7 +45,7 @@ The following structure is proposed:
 
 ### Bibliography in Zotero
 - [Link (add and administer papers)](https://www.zotero.org/groups/5969876/resilieceofficers/collections/MBD5CC2K)
-- [References, updated 28 April 2025 (.bib file)]()
+- References, updated 28 April 2025 (.bib file to come)
 
 
 ## 6. Manuscript for journal publication
