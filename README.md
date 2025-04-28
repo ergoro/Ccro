@@ -53,7 +53,7 @@ The target journal is [International Journal of Disaster Risk Science (IJDRS)](h
 - [IJDRS (submission guidelines)](https://link.springer.com/journal/13753/submission-guidelines)
 
 ### Other options
-- [Nature communications](https://www.nature.com/ncomms/)
 - [Progress in Disaster Science](https://www.sciencedirect.com/journal/progress-in-disaster-science)
-- [Nature climate change](https://www.nature.com/nclimate/?utm_source=slink&utm_medium=journal_finder)
 - [Risk management](https://www.palgrave.com/gp/journal/41283?utm_source=slink&utm_medium=journal_finder)
+- [Nature communications](https://www.nature.com/ncomms/)
+- [Nature climate change](https://www.nature.com/nclimate/?utm_source=slink&utm_medium=journal_finder)
