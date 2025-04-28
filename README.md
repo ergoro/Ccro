@@ -16,18 +16,22 @@ NA
 
 The following structure is proposed:
 
-### Introduction
+### 1 Introduction
 - State the problem, highlighting the escalating disaster risks facing corporations.
 - Introduce CROs, defining the role and significance in mitigating these risks.
 
-### Main argument
+### 2 Problem statement
 - Current challenges, discuss natural hazards, cyber-attacks, and pandemics.
 - Corporate vulnerability, why existing roles may be insufficient.
+
+### 3 The need for CROs
 - Need for CROs, examples from dedicated resilience leadership.
+
+### 4 Governance and policy implications
 - Governance implications, how CROs integrate into governance structures.
 - Policy implications, how CROs can enhance DRR.
 
-### Conclusion
+### 5 Conclusion
 - Reaffirm the necessity of CROs.
 - Call to action, encouraging the adoption of CRO roles and further research.
 
